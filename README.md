@@ -71,7 +71,7 @@ You can update the siteUrl in the pom.xml property (default is http://www.google
 # Your first BDD Test Case
 
 ## Your first feature file
-Create a feature file under src\test\resources\myproject (You can group your feature in same directory, i.e. homepage / contact / products etc)
+Create a feature file under src\test\resources\FirdausProj (You can group your feature in same directory, i.e. homepage / contact / products etc)
 
 1. Copy your story / feature description (ideally same as from Jira description, As a site user, I want to ...., So that ...)
 2. Under `Scenario Outline:` will contain all the Given / When / Then Gherkin
@@ -83,7 +83,7 @@ The Data Table (even only 1 row) can help you to change the data input in the fu
 4. Then run the mvn test, it will throw the exception of missing implementation, and it will print out the Java Selenium function you need to implement (for next step)
 
 = Implement the missing Java Scenario Step =
-5. Create a java file under src\test\java\myproject (same, you can group as folder as the structure of feature folder)
+5. Create a java file under src\test\java\FirdausProj (same, you can group as folder as the structure of feature folder)
 
 Copy printed function signatures from last step, and implement the selenium action you want to achieve.
 
