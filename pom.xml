@@ -57,8 +57,8 @@
                     <!-- If a key starts with an underscore ("_"), only the value is displayed. -->
                     <customParameters>
                         <Title>CIMB Test Automation Test Results</Title>
-                        <Target_URL1>https://www.cimb.com.my/en/personal/home.html </Target_URL1>
-                        <Target_URL2>https://www.cimb.com.my/en/personal/home.html </Target_URL2>
+                        <Target_URL1>https://www.cimb.com.my/en/personal/home.html</Target_URL1>
+                        <Target_URL2>https://www.cimbbank.com.sg/en/personal/index.html</Target_URL2>
                         <_KeysStartingWithAnUnderscoreAreHidden>This is my details report for the two scenario required for my CIMB Job Test. I'm using cluecumber plugin for my report</_KeysStartingWithAnUnderscoreAreHidden>
                     </customParameters>
 
