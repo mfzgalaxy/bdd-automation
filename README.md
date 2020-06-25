@@ -1,4 +1,4 @@
-# FirdausProj: CIMB Interview Test
+# FirdausProj: Web Application Automation Test
 
 
 Java + Junit + Cucumber + Selenium testing cases + Cluecumber Reporting
