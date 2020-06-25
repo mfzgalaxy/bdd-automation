@@ -1,5 +1,5 @@
-@cimb
-Feature: Automation Test on CIMB website for my job interview
+@firdaus
+Feature: Automation Test on CIMB website
 
   Scenario Outline: Verify on Specific Deal - <Deal>
     Given I'm on "<Url>" page

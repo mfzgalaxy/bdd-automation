@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
 
 // Default:
 @Cucumber.Options(
-        tags={"@cimb"},
+        tags={"@firdaus"},
         format = {"pretty", "html:target/cucumber", "json:target/cucumber.json", "json:target/cucumber-report/cucumber.json"})
 //@Cucumber.Options(tags={"@now"},format = {"pretty", "html:target/cucumber", "json:target/cucumber.json"})
 public class MyProjectTest {
