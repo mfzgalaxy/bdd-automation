@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FirdausProj-CIMB.iml" filepath="$PROJECT_DIR$/.idea/FirdausProj-CIMB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FirdausProj.iml" filepath="$PROJECT_DIR$/.idea/FirdausProj.iml" />
     </modules>
   </component>
 </project>

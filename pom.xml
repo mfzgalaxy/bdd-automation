@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>FirdausProj-CIMB</groupId>
-    <artifactId>FirdausProj-CIMB</artifactId>
+    <groupId>FirdausProj</groupId>
+    <artifactId>FirdausProj</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <build>
@@ -58,7 +58,7 @@
                     <customParameters>
                         <Title>Test Automation Test Results</Title>
                         <Target_URL1>https://github.com/mfzgalaxy/bdd-automation</Target_URL1>
-                        <Target_URL2>https://github.com/mfzgalaxy/bdd-automation</Target_URL2>
+                        <Target_URL2>https://www.dialog.lk</Target_URL2>
                         <_KeysStartingWithAnUnderscoreAreHidden>This is my details report. I'm using cluecumber plugin for my report</_KeysStartingWithAnUnderscoreAreHidden>
                     </customParameters>
 
