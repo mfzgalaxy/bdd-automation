@@ -18,7 +18,7 @@ import org.junit.runner.RunWith;
 //        format = {"json:target/cucumber-report/cucumber.json"}
 //)
 @Cucumber.Options(
-        tags={"@adl"},
+        tags={"@astro2"},
         format = {"pretty", "html:target/cucumber", "json:target/cucumber.json", "json:target/cucumber-report/cucumber.json"})
 //@Cucumber.Options(tags={"@now"},format = {"pretty", "html:target/cucumber", "json:target/cucumber.json"})
 public class MyProjectTest {

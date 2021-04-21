@@ -58,7 +58,7 @@
                     <customParameters>
                         <Title>Test Automation Test Results</Title>
                         <Target_URL1>https://github.com/mfzgalaxy/bdd-automation</Target_URL1>
-                        <Target_URL2>https://www.dialog.lk</Target_URL2>
+                        <Target_URL2>https://www.astro.com.my</Target_URL2>
                         <_KeysStartingWithAnUnderscoreAreHidden>This is my details report. I'm using cluecumber plugin for my report</_KeysStartingWithAnUnderscoreAreHidden>
                     </customParameters>
 
